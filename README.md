@@ -1,4 +1,6 @@
 # CSCE 679 Data Visualization Assignment2
+My Notebook:
+https://observablehq.com/d/00869265872effee
 
 ## Level 1 challenge: Year/Month Heatmap
 <img width="895" alt="l1_1" src="https://github.com/user-attachments/assets/f6d9104a-66f4-4d2f-925d-0ccf9cd991cb" />
