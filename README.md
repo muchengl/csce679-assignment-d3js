@@ -9,4 +9,4 @@
 
 <img width="912" alt="l2_1" src="https://github.com/user-attachments/assets/21d3533a-2d62-4d16-9e09-5ea6bdde892f" />
 
-<img width="911" alt="l2_2" src="https://github.com/user-attachments/assets/9cdda483-d21a-40a4-a212-fa28187ce932" />
+<img width="913" alt="l2_2" src="https://github.com/user-attachments/assets/143bc463-b858-459c-a479-bbe951e9877f" />
